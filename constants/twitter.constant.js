@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TWITTER_USER_FETCH_INTERVAL = exports.TWITTER_API_LIST_SIZE = exports.TWITTER_GUEST_TOKEN_DURATION = exports.TWITTER_GUEST_TOKEN_RETRY_MS = exports.TWITTER_PUBLIC_AUTHORIZATION = exports.TWITTER_API_URL = void 0;
+exports.TWITTER_API_URL = 'https://api.twitter.com';
+exports.TWITTER_PUBLIC_AUTHORIZATION = 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA';
+exports.TWITTER_GUEST_TOKEN_RETRY_MS = 5000;
+exports.TWITTER_GUEST_TOKEN_DURATION = 1800000;
+exports.TWITTER_API_LIST_SIZE = 100;
+exports.TWITTER_USER_FETCH_INTERVAL = 60000;
+//# sourceMappingURL=twitter.constant.js.map

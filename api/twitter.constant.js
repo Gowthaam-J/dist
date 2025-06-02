@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TWITTER_GUEST_TOKEN_DURATION = exports.TWITTER_PUBLIC_AUTHORIZATION_2 = exports.TWITTER_PUBLIC_AUTHORIZATION = exports.TWITTER_API_URL = void 0;
+exports.TWITTER_API_URL = 'https://api.twitter.com';
+exports.TWITTER_PUBLIC_AUTHORIZATION = 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs=1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA';
+exports.TWITTER_PUBLIC_AUTHORIZATION_2 = 'Bearer AAAAAAAAAAAAAAAAAAAAAFQODgEAAAAAVHTp76lzh3rFzcHbmHVvQxYYpTw%3DckAlMINMjmCwxUcaXbAN4XqJVdgMJaHqNOFgPMK0zN1qLqLQCF';
+exports.TWITTER_GUEST_TOKEN_DURATION = 1800000;
+//# sourceMappingURL=twitter.constant.js.map
